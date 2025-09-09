@@ -197,5 +197,3 @@ Based on validation testing:
 ---
 
 **Clinical Crystal Ball** represents the future of predictive healthcare analytics - combining cutting-edge AI technology with practical clinical applications to improve patient outcomes and support healthcare professionals in their mission to save lives.
-
-*Built with ❤️ for the healthcare community*
